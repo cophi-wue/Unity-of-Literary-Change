@@ -1,7 +1,13 @@
 # Unity-of-Literary-Change
 
+# Paper
+Leonard Konle, Merten Kröncke, Fotis Jannidis, Simone Winko (2024): On the Unity of Literary Change. 
+The Development of Emotions in German Poetry, Prose, and Drama between 1850 and 1920 as a Test Case.
+In Proceedings of the Computational Humanities Research Conference 2024 (CHR). Arrhus, Denmark.
 
 # Detailed Test Results
+
+Detailed table with test results for all combinations of variables and LAGs from the paper:
 
 | Variable | Test | GenreX | GerneY | stat | pval | crit@5% | LAG |
 | :------ | :------: | :------: | :------: | :------: | :------: | :------: | ------:|
