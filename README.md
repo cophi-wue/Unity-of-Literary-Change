@@ -1,5 +1,5 @@
 # Unity-of-Literary-Change
-
+[Coprus download](https://owncloud.gwdg.de/index.php/s/zcSKoprkSdARgdK)
 # Paper
 Leonard Konle, Merten Kröncke, Fotis Jannidis, Simone Winko (2024): On the Unity of Literary Change. 
 The Development of Emotions in German Poetry, Prose, and Drama between 1850 and 1920 as a Test Case.
